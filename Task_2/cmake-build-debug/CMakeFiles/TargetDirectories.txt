@@ -1,0 +1,3 @@
+G:/SCIENCE/TECH/C++/CodeAlpha_Tasks/Task_2/cmake-build-debug/CMakeFiles/Task_2.dir
+G:/SCIENCE/TECH/C++/CodeAlpha_Tasks/Task_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/SCIENCE/TECH/C++/CodeAlpha_Tasks/Task_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
